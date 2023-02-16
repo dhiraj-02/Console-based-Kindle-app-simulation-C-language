@@ -1,0 +1,19 @@
+Vjay  AZK101  Mumbai 0 3 sshoe-dog billy-summers atomic-habits 
+Ajay  AZK102  Dubai 0 1 factfulness   
+Vinay  AZK103  Jaipur 1 2 born-a-crime it 
+Micallef  AZK104  Banglore 1 2 sshoe-dog it 
+Jhonson  AZK105  Delhi 1 5 it sapiens pandemic factfulness essentialism 
+Ricky  AZK106  Vizak 0 2 factfulness billy-summers 
+Kane  AZK107  Trichi 1 2 the-dairy-of-a-young-girl it 
+Ros  AZK108  Hubli 1 3 it sshoe-dog billy-summers 
+Rosy  AZK109  Kanpur 0 2 born-a-crime factfulness 
+David  AZK110  Manali 1 2 sapiens pandemic 
+Steave  AZK111  Dharwad 1 1 sshoe-dog 
+Rohith  AZK112  Mumbai 0 3 it sshoe-dog pandemic 
+Gyary  AZK113  Tumkur 1 2 why-we-sleep factfulness 
+James  AZK114  Kolkata 0 1 project-hail-mary 
+Jack  AZK115  Banglore 1 1 all-the-light-we-cannot-see 
+Lary  AZK116  Mysore 0 2 pandemic factfulness 
+Carry  AZK117  Lahor 1 2 if-you-tell where-echoes-lie 
+Mortal  AZK118  Chenni 1 2 pandemic sapiens 
+Soul  AZK119  Hydrabad 1 2 why-we-sleep pandemic 
